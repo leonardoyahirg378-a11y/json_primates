@@ -1,0 +1,119 @@
+[
+  {
+    "Name": "Rhesus Macaque",
+    "Location": "Asia (India & China)",
+    "Details": "The Rhesus macaque is one of the best-known species of Old World monkeys. They are highly adaptable and are used extensively in medical and biological research.",
+    "Image": "https://ejemplo.com/imagenes/rhesus.jpg",
+    "Population": 100000,
+    "Latitude": 28.613939,
+    "Longitude": 77.209021
+  },
+  {
+    "Name": "Emperor Tamarin",
+    "Location": "Southwest Amazon Basin",
+    "Details": "Named for its resemblance to the German Emperor Wilhelm II, this small monkey is famous for its long, elegant white mustache.",
+    "Image": "https://ejemplo.com/imagenes/emperor_tamarin.jpg",
+    "Population": 10000,
+    "Latitude": -9.040183,
+    "Longitude": -70.038452
+  },
+  {
+    "Name": "Spider Monkey",
+    "Location": "Central & South America",
+    "Details": "Spider monkeys are New World monkeys belonging to the genus Ateles. They have disproportionately long limbs and long prehensile tails, making them highly agile.",
+    "Image": "https://ejemplo.com/imagenes/spider_monkey.jpg",
+    "Population": 50000,
+    "Latitude": 10.273563,
+    "Longitude": -84.085022
+  },
+  {
+    "Name": "Gelada",
+    "Location": "Ethiopian Highlands",
+    "Details": "Sometimes called the bleeding-heart monkey due to the bright red patch on its chest, the gelada is a species of Old World monkey found only in the high grassland of Ethiopia.",
+    "Image": "https://ejemplo.com/imagenes/gelada.jpg",
+    "Population": 200000,
+    "Latitude": 13.242222,
+    "Longitude": 38.006389
+  },
+  {
+    "Name": "Pygmy Marmoset",
+    "Location": "Amazon Basin",
+    "Details": "The pygmy marmoset is a small genus of New World monkey native to rainforests of the western Amazon Basin. It is notable for being the smallest monkey in the world.",
+    "Image": "https://ejemplo.com/imagenes/pygmy_marmoset.jpg",
+    "Population": 50000,
+    "Latitude": -3.465305,
+    "Longitude": -62.215881
+  },
+  {
+    "Name": "Vervet Monkey",
+    "Location": "Southern and East Africa",
+    "Details": "The vervet monkey is an Old World monkey with a grey body and a distinct black face fringed with white hair. They are highly social animals.",
+    "Image": "https://ejemplo.com/imagenes/vervet.jpg",
+    "Population": 150000,
+    "Latitude": -1.292066,
+    "Longitude": 36.821945
+  },
+  {
+    "Name": "De Brazza's Monkey",
+    "Location": "Central Africa",
+    "Details": "An Old World monkey endemic to the wetlands of central Africa. It is known for its distinct white beard and yellowish-grey crown.",
+    "Image": "https://ejemplo.com/imagenes/de_brazza.jpg",
+    "Population": 50000,
+    "Latitude": 0.313611,
+    "Longitude": 15.656944
+  },
+  {
+    "Name": "Black-and-white Colobus",
+    "Location": "Equatorial Africa",
+    "Details": "Colobus monkeys are distinct for lacking thumbs. They have beautiful contrasting black and white coats and are highly arboreal, rarely descending to the ground.",
+    "Image": "https://ejemplo.com/imagenes/colobus.jpg",
+    "Population": 100000,
+    "Latitude": 0.519349,
+    "Longitude": 34.195392
+  },
+  {
+    "Name": "Night Monkey",
+    "Location": "South America",
+    "Details": "Also known as owl monkeys, they are the only truly nocturnal monkeys. They have large brown eyes that help them see in the dark.",
+    "Image": "https://ejemplo.com/imagenes/night_monkey.jpg",
+    "Population": 20000,
+    "Latitude": -5.115865,
+    "Longitude": -65.127815
+  },
+  {
+    "Name": "Lion-tailed Macaque",
+    "Location": "Western Ghats, India",
+    "Details": "An Old World monkey characterized by its outstanding silver-white mane and a tail with a black tuft at the end, similar to a lion's.",
+    "Image": "https://ejemplo.com/imagenes/lion_tailed.jpg",
+    "Population": 2500,
+    "Latitude": 10.456889,
+    "Longitude": 76.536118
+  },
+  {
+    "Name": "Cotton-top Tamarin",
+    "Location": "Colombia",
+    "Details": "A small New World monkey weighing less than 0.5 kg. It is easily recognized by the long white sagittal crest extending from its forehead to its shoulders.",
+    "Image": "https://ejemplo.com/imagenes/cotton_top.jpg",
+    "Population": 6000,
+    "Latitude": 9.423984,
+    "Longitude": -74.568329
+  },
+  {
+    "Name": "Bald Uakari",
+    "Location": "Amazon Basin (Brazil & Peru)",
+    "Details": "A small New World monkey characterized by a very short tail, a bright, crimson face, a bald head, and a long coat.",
+    "Image": "https://ejemplo.com/imagenes/bald_uakari.jpg",
+    "Population": 10000,
+    "Latitude": -4.215286,
+    "Longitude": -71.134544
+  },
+  {
+    "Name": "Patas Monkey",
+    "Location": "West and East Africa",
+    "Details": "A ground-dwelling monkey known for its incredible speed. It is the fastest primate, capable of running up to 55 km/h.",
+    "Image": "https://ejemplo.com/imagenes/patas_monkey.jpg",
+    "Population": 50000,
+    "Latitude": 12.358249,
+    "Longitude": -1.531238
+  }
+]
